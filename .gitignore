@@ -1,2 +1,6 @@
 tmp/todo.txt
+<<<<<<< Updated upstream
 tmp/*
+=======
+*.txt
+>>>>>>> Stashed changes
